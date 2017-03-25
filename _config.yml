@@ -1,0 +1,80 @@
+# Site settings
+title: wapiti
+SEOTitle: wapiti
+header-img: "img/index.jpg"
+tagline: "cn"  
+description: "a batter theme for jekyll"  
+baseurl: ""
+url: "https://aiokr.github.io/jekyll-theme-wapiti"  
+baseurl: ""
+
+# About/contact
+owner: 
+  name: " aiokr"
+  email: hiaiokr@gmail.com
+  bio: ""
+
+# Data
+gavatar: img/favicon.png
+favicon: img/favicon.png
+
+douban_username:  
+twitter_username: 
+github_username: 
+facebook_username: 
+weibo_username:  
+zhihu_username: "starkchen"
+
+# Build settings  
+# use Github Flavored Markdown !important  
+# document: http://jekyllrb.com/docs/configuration/#kramdown  
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 15
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai
+
+# Defaults for posts
+defaults:
+    scope: 
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "aiokr"
+      header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
+
+# Comments 
+# Disqus settings
+disqus_username: aiokr
+
+# Progressive Web Apps
+chrome-tab-theme-color: "#607D8B"
+service-worker: true
+
+# Sidebar settings
+sidebar: true                           # whether or not using Sidebar.
+sidebar-about-description: "天行健 君子以自强不息<br>地势坤 君子以厚德载物"
+sidebar-avatar: /img/avatar.png    # use absolute URL, seeing it's used in both `/` and `/about/`
+
+# Featured Tags
+featured-tags: true                     # whether or not using Feature-Tags
+featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
+
+
+# Friends link
+friends: [
+    {
+        title: "aiokr",
+        href: "https://aiokr.github.ios/"
+    },{
+        title: "默趣小站",
+        href: "https://www.mocurio.com/"
+    },{
+        title: "冰凌胧月的后宫",
+        href: "https://imiku.me/"
+    }
+]
