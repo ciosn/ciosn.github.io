@@ -10,8 +10,6 @@ margin-left: 2cm;
 margin-left: 2cm;
 }
 
-@page :blank {
-  @top-center {
-  content: "Jekyll Theme Wapiti"
-  }
+.print-hide{
+  display: none;
 }
