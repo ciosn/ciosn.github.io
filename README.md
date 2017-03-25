@@ -1,13 +1,20 @@
 # Wapiti
 
+一个更好的Jekyll 主题
+
+[实时预览](https://aiokr.github.io)
+
 ## 功能
 
 标签云支持
 
 特色图片支持
 
-# 参考以下模板修改
+## 简明使用方式：
+import 这个仓库到 yourname.github.io 仓库，在 Setting页面开启 Github Pages 即可。
 
-HUX
+别忘了给本项目点一个 Star 
 
-cnFeat
+## 完整安装方式：
+
+```有待完善```
