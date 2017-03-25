@@ -57,7 +57,7 @@ service-worker: true
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "天行健 君子以自强不息<br>地势坤 君子以厚德载物"
+sidebar-about-description: "侧边栏标语"
 sidebar-avatar: /img/avatar.png    # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
@@ -70,11 +70,5 @@ friends: [
     {
         title: "aiokr",
         href: "https://aiokr.github.ios/"
-    },{
-        title: "默趣小站",
-        href: "https://www.mocurio.com/"
-    },{
-        title: "冰凌胧月的后宫",
-        href: "https://imiku.me/"
-    }
+    },
 ]

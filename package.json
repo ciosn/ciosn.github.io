@@ -1,8 +1,8 @@
 {
-    "name": "aiokr-blog",
-    "title": "aiokr Blog",
+    "name": "jekyll-theme-wapiti",
+    "title": "jekyll-theme-wapiti",
     "version": "1.0.0",
-    "homepage": "http://aiokr.github.io",
+    "homepage": "https://aiokr.github.io/jekyll-theme-wapiti/",
     "author": "aiokr",
     "license": {
         "type": "Apache 2.0",
