@@ -1,14 +1,14 @@
 # coding: utf-8
-Gem::Specification.new do |spec|
-  spec.name          = "jekyll-theme-wapiti"
-  spec.version       = "0.1.1"
-  spec.authors       = ["AngusChen"]
-  spec.email         = ["hiaiokr@gmail.com"]
+Gem::Specification.new do |s|
+  s.name          = "jekyll-theme-wapiti"
+  s.version       = "0.1.2"
+  s.authors       = ["AngusChen"]
+  s.email         = ["hiaiokr@gmail.com"]
 
-  spec.summary       = "Jekyll-theme-wapiti"
-  spec.description   = "a better for jekyll"
-  spec.homepage      = "https://aiokr.github.io/jekyll-theme-wapiti/"
-  spec.license       = "MIT"
+  s.summary       = "Jekyll-theme-wapiti"
+  s.description   = "a better theme for jekyll"
+  s.homepage      = "https://github.com/aiokr/jekyll-theme-wapiti"
+  s.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
@@ -19,14 +19,11 @@ Gem::Specification.new do |spec|
       #"public gem pushes."
   #end
 
-  spec.files         = `git ls-files -z`.split("\x0").reject do |f|
+  s.files         = `git ls-files -z`.split("\x0").reject do |f|
     f.match(%r{^(test|spec|features)/})
   end
-  spec.bindir        = "exe"
-  spec.executables   = spec.files.grep(%r{^exe/}) { |f| File.basename(f) }
-  spec.require_paths = ["lib"]
 
-  spec.add_runtime_dependency "jekyll", "~> 3.4"
-  spec.add_development_dependency "bundler", "~> 1.14"
-  spec.add_development_dependency "rake", "~> 10.0"
+  s.add_runtime_dependency "jekyll", "~> 3.4"
+  s.add_development_dependency "bundler", "~> 1.14"
+  s.add_development_dependency "rake", "~> 10.0"
 end
