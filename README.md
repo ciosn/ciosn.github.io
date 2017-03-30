@@ -1,3 +1,8 @@
+[![Gem Version](https://badge.fury.io/rb/jekyll-theme-wapiti.svg)](https://badge.fury.io/rb/jekyll-theme-wapiti)
+[![Github Releases](https://img.shields.io/github/downloads/atom/atom/latest/total.svg)]()
+[![Gem](https://img.shields.io/gem/v/formatador.svg)]()
+![](https://img.shields.io/badge/QQ%20Groop-518839460-orange.svg)
+
 # Wapiti
 
 一个更好的Jekyll 主题
