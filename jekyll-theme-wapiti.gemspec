@@ -1,7 +1,7 @@
 # coding: utf-8
 Gem::Specification.new do |s|
   s.name          = "jekyll-theme-wapiti"
-  s.version       = "0.1.2"
+  s.version       = "0.1.3"
   s.authors       = ["AngusChen"]
   s.email         = ["hiaiokr@gmail.com"]
 
