@@ -18,3 +18,5 @@ import 这个仓库到 yourname.github.io 仓库，在 Setting页面开启 Githu
 ## 完整安装方式：
 
 ```有待完善```
+
+RubyGem地址: [jekyll-theme-wapiti](https://rubygems.org/gems/jekyll-theme-wapiti)
