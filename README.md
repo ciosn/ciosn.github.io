@@ -1,5 +1,5 @@
 [![Gem Version](https://badge.fury.io/rb/jekyll-theme-wapiti.svg)](https://badge.fury.io/rb/jekyll-theme-wapiti)
-![](https://img.shields.io/badge/QQ%20Groop-518839460-orange.svg)
+![](https://img.shields.io/badge/QQ%20Group-518839460-orange.svg)
 
 # Wapiti
 
